@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal Raza</h1>
+<!-- <h1 align="center">Hi 👋, I'm Muhammad Bilal Raza</h1>
 <h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-raza-br&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-raza-br" /> </p>
@@ -33,4 +33,109 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-raza-br&show_icons=true&locale=en" alt="bilal-raza-br" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-raza-br&" alt="bilal-raza-br" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-raza-br&" alt="bilal-raza-br" /></p> -->
+
+<h1 align="center">Hi 👋, I'm Bilal Raza</h1>
+<h3 align="center">⚡ MERN Stack Developer | Building Real-World Web Apps | Karachi, Pakistan</h3>
+
+<p align="center">
+  <a href="https://portfolio-ecru-mu-43.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bilal-raza-3ba111322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm a **MERN Stack Developer** with hands-on practical experience building full-stack web applications
+- 🎓 Trained at **Saylani Mass IT Training (SMIT)**, Karachi
+- 💼 Completed a **remote internship at Code Alpha**
+- 🚀 Currently learning **NestJS + TypeScript + PostgreSQL** to level up my backend skills
+- 🌍 Based in **Karachi, Pakistan** — open to onsite & remote opportunities
+- 💡 I love turning ideas into real, deployed products
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database & Auth**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🏢 [SaaS HRMS Portal](#) | Full HR management system with employee, leave & payroll modules | MERN, JWT, Cloudinary |
+| 🛒 [E-Commerce Platform](#) | Complete e-commerce platform with cart, orders & admin dashboard | MERN, Stripe, Cloudinary |
+| 🏠 [GharFinder](#) | Real estate platform to buy/rent properties across Pakistan | MERN, Maps API |
+| 🎟️ [Event Booking Platform](#) | Book and manage events with seat selection & payments | MERN, Firebase |
+
+> 🔗 See all projects on my **[Portfolio](https://portfolio-ecru-mu-43.vercel.app)**
+
+---
+
+### 📜 Certifications
+
+- 🏅 **Cisco — HTML & CSS** Certification  
+- 🏅 **Cisco — JavaScript** Certification
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Raza-BR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Raza-BR&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://portfolio-ecru-mu-43.vercel.app">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/bilal-raza-3ba111322">💼 LinkedIn</a> •
+  <a href="https://github.com/Bilal-Raza-BR">🐙 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bilal-Raza-BR&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
