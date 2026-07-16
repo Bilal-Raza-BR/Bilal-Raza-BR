@@ -239,7 +239,7 @@ A responsive event booking system where users can browse events, reserve seats a
 
 ---
 
-# 📜 Certifications
+
 
 <!-- <p align="center">
 
@@ -271,7 +271,7 @@ A responsive event booking system where users can browse events, reserve seats a
 
 ---
 
-# 📈 GitHub Activity Graph
+
 
 <!-- <p align="center">
 
