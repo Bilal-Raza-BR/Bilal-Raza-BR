@@ -241,7 +241,7 @@ A responsive event booking system where users can browse events, reserve seats a
 
 # 📜 Certifications
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://img.shields.io/badge/SMIT-Web_&_App_Development-success?style=for-the-badge"/>
 
@@ -249,7 +249,7 @@ A responsive event booking system where users can browse events, reserve seats a
 
 <img src="https://img.shields.io/badge/Cisco-JavaScript-1BA0D7?style=for-the-badge&logo=cisco"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -273,10 +273,10 @@ A responsive event booking system where users can browse events, reserve seats a
 
 # 📈 GitHub Activity Graph
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Raza-BR&theme=tokyo-night"/>
 
-</p>
+</p> -->
 
 ---
