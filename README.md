@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Bilal Raza Banner" width="100%" />
+  <img src="./assets/banner.jfif" alt="Bilal Raza Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Raza</h1>
