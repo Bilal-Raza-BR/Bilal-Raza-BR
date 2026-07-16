@@ -124,3 +124,159 @@ I enjoy transforming ideas into real products and continuously improving my skil
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+---
+
+## 🏢 HRMS SaaS
+
+<p align="center">
+  <img src="./assets/hrms.png" width="850" alt="HRMS SaaS"/>
+</p>
+
+A complete **Multi-Company HR Management System (SaaS)** featuring employee management, attendance, leave requests, recruitment, role-based authentication, dashboards, and Cloudinary file uploads.
+
+**⚙️ Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Material UI` `Cloudinary`
+
+<p align="center">
+  <a href="YOUR_LIVE_LINK">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🏠 GharFinder
+
+<p align="center">
+  <img src="./assets/gharfinder.png" width="850" alt="GharFinder"/>
+</p>
+
+A modern real estate platform that allows users to browse, search and manage residential and commercial properties with a clean and responsive UI.
+
+**⚙️ Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Google Maps API`
+
+<p align="center">
+  <a href="YOUR_LIVE_LINK">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🛒 E-Commerce Platform
+
+<p align="center">
+  <img src="./assets/ecommerce.png" width="850" alt="E-Commerce"/>
+</p>
+
+A full-stack e-commerce application featuring product listings, shopping cart, authentication, order management and secure payment integration.
+
+**⚙️ Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Stripe`
+
+<p align="center">
+  <a href="YOUR_LIVE_LINK">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🎟️ Event Booking Platform
+
+<p align="center">
+  <img src="./assets/event-booking.png" width="850" alt="Event Booking"/>
+</p>
+
+A responsive event booking system where users can browse events, reserve seats and manage bookings through an intuitive interface.
+
+**⚙️ Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Firebase`
+
+<p align="center">
+  <a href="YOUR_LIVE_LINK">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 💼 Experience
+
+## 🚀 MERN Stack Developer Intern — CodeAlpha
+
+**Duration:** Remote Internship
+
+- Developed responsive web applications using the MERN Stack.
+- Built reusable React components.
+- Integrated REST APIs.
+- Worked with Git & GitHub for version control.
+- Improved debugging and problem-solving skills.
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SMIT-Web_&_App_Development-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-HTML_&_CSS-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+<img src="https://img.shields.io/badge/Cisco-JavaScript-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bilal-Raza-BR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Raza-BR&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Raza-BR&theme=tokyo-night"/>
+
+</p>
+
+---
