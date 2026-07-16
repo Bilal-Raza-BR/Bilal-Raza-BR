@@ -130,6 +130,13 @@
 
 ### 🤝 Let's Connect!
 
+<br clear="both">
+
+8 months ago
+
+Update snake animation image in README
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 <p align="center">
   <a href="https://portfolio-ecru-mu-43.vercel.app">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/bilal-raza-3ba111322">💼 LinkedIn</a> •
