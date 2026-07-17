@@ -120,17 +120,15 @@ I enjoy transforming ideas into real products and continuously improving my skil
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bilal-Raza-BR&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bilal-Raza-BR&theme=nord&no-frame=true&margin-w=15" />
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
 ---
 
 ## 🏢 HRMS SaaS
-
 <p align="center">
   <img src="./assets/project1.png" width="850" alt="HRMS SaaS"/>
 </p>
@@ -138,15 +136,13 @@ I enjoy transforming ideas into real products and continuously improving my skil
 A complete **Multi-Company HR Management System (SaaS)** featuring employee management, attendance, leave requests, recruitment, role-based authentication, dashboards, and Cloudinary file uploads.
 
 **⚙️ Tech Stack**
-
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Material UI` `Cloudinary`
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://hrms-frontend-rosy-omega.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
   </a>
-
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/Bilal-Raza-BR/HRMS-Frontend">
     <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -154,7 +150,6 @@ A complete **Multi-Company HR Management System (SaaS)** featuring employee mana
 ---
 
 ## 🏠 GharFinder
-
 <p align="center">
   <img src="./assets/project4.png" width="850" alt="GharFinder"/>
 </p>
@@ -162,15 +157,13 @@ A complete **Multi-Company HR Management System (SaaS)** featuring employee mana
 A modern real estate platform that allows users to browse, search and manage residential and commercial properties with a clean and responsive UI.
 
 **⚙️ Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Google Maps API`
+`Next.js` `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://ghar-finder-frontend.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
   </a>
-
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/Bilal-Raza-BR/GharFinder-Frontend">
     <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -178,7 +171,6 @@ A modern real estate platform that allows users to browse, search and manage res
 ---
 
 ## 🛒 E-Commerce Platform
-
 <p align="center">
   <img src="./assets/project2.png" width="850" alt="E-Commerce"/>
 </p>
@@ -186,15 +178,13 @@ A modern real estate platform that allows users to browse, search and manage res
 A full-stack e-commerce application featuring product listings, shopping cart, authentication, order management and secure payment integration.
 
 **⚙️ Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Stripe`
+`React` `Node.js` `Express.js` `MongoDB` `Cloudinary` `Bcrypt.js`
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://e-commerce-frontend-seven-lyart.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
   </a>
-
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/Bilal-Raza-BR/E-Commerce-frontend">
     <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -202,7 +192,6 @@ A full-stack e-commerce application featuring product listings, shopping cart, a
 ---
 
 ## 🎟️ Event Booking Platform
-
 <p align="center">
   <img src="./assets/project3.png" width="850" alt="Event Booking"/>
 </p>
@@ -210,15 +199,13 @@ A full-stack e-commerce application featuring product listings, shopping cart, a
 A responsive event booking system where users can browse events, reserve seats and manage bookings through an intuitive interface.
 
 **⚙️ Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Firebase`
+`React` `Node.js` `Express.js` `MongoDB`
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://event-booking-frontend-sooty.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
   </a>
-
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/Bilal-Raza-BR/Event-Booking-frontend">
     <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -228,7 +215,6 @@ A responsive event booking system where users can browse events, reserve seats a
 # 💼 Experience
 
 ## 🚀 MERN Stack Developer Intern — CodeAlpha
-
 **Duration:** Remote Internship
 
 - Developed responsive web applications using the MERN Stack.
@@ -241,19 +227,33 @@ A responsive event booking system where users can browse events, reserve seats a
 
 
 
-<!-- <p align="center">
 
-<img src="https://img.shields.io/badge/SMIT-Web_&_App_Development-success?style=for-the-badge"/>
+# 📊 GitHub Statistics
 
-<img src="https://img.shields.io/badge/Cisco-HTML_&_CSS-1BA0D7?style=for-the-badge&logo=cisco"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bilal-Raza-BR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Raza-BR&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://img.shields.io/badge/Cisco-JavaScript-1BA0D7?style=for-the-badge&logo=cisco"/>
-
-</p> -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Raza-BR&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Agar koi project pasand aaye toh star zaroor dena!</i>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -265,18 +265,50 @@ A responsive event booking system where users can browse events, reserve seats a
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# 🐍 Contribution Snake
 
-
-<!-- <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-Raza-BR&theme=tokyo-night"/>
-
-</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Bilal-Raza-BR/Bilal-Raza-BR/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-ecru-mu-43.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bilal-raza-3ba111322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bilalraza2646@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bilal-Raza-BR">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building Modern Web Applications One Commit at a Time
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
