@@ -132,7 +132,7 @@ I enjoy transforming ideas into real products and continuously improving my skil
 ## 🏢 HRMS SaaS
 
 <p align="center">
-  <img src="./assets/hrms.png" width="850" alt="HRMS SaaS"/>
+  <img src="./assets/project1.png" width="850" alt="HRMS SaaS"/>
 </p>
 
 A complete **Multi-Company HR Management System (SaaS)** featuring employee management, attendance, leave requests, recruitment, role-based authentication, dashboards, and Cloudinary file uploads.
@@ -156,7 +156,7 @@ A complete **Multi-Company HR Management System (SaaS)** featuring employee mana
 ## 🏠 GharFinder
 
 <p align="center">
-  <img src="./assets/gharfinder.png" width="850" alt="GharFinder"/>
+  <img src="./assets/project4.png" width="850" alt="GharFinder"/>
 </p>
 
 A modern real estate platform that allows users to browse, search and manage residential and commercial properties with a clean and responsive UI.
@@ -180,7 +180,7 @@ A modern real estate platform that allows users to browse, search and manage res
 ## 🛒 E-Commerce Platform
 
 <p align="center">
-  <img src="./assets/ecommerce.png" width="850" alt="E-Commerce"/>
+  <img src="./assets/project2.png" width="850" alt="E-Commerce"/>
 </p>
 
 A full-stack e-commerce application featuring product listings, shopping cart, authentication, order management and secure payment integration.
@@ -204,7 +204,7 @@ A full-stack e-commerce application featuring product listings, shopping cart, a
 ## 🎟️ Event Booking Platform
 
 <p align="center">
-  <img src="./assets/event-booking.png" width="850" alt="Event Booking"/>
+  <img src="./assets/project3.png" width="850" alt="Event Booking"/>
 </p>
 
 A responsive event booking system where users can browse events, reserve seats and manage bookings through an intuitive interface.
