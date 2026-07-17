@@ -117,13 +117,6 @@ I enjoy transforming ideas into real products and continuously improving my skil
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bilal-Raza-BR&theme=nord&no-frame=true&margin-w=15" />
-</p>
-
----
 # 🚀 Featured Projects
 
 ---
@@ -253,29 +246,12 @@ A responsive event booking system where users can browse events, reserve seats a
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bilal-Raza-BR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Raza-BR&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Raza-BR&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Bilal-Raza-BR/Bilal-Raza-BR/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
